@@ -25,6 +25,8 @@ $(call inherit-product, vendor/revengeos/config/common.mk)
 
 PRODUCT_NAME := revengeos_x2
 PRODUCT_DEVICE := x2
+PRODUCT_BRAND := Leeco
+PRODUCT_MODEL := Le Max 2
 PRODUCT_MANUFACTURER := LeEco
 PRODUCT_BRAND := LeEco
 
