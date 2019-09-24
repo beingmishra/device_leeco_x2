@@ -3,7 +3,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.product=x2 \
     ro.internal.model="Le X820" \
     ro.config.le_hardware_version=HW_1.0.0 \
-    ro.display.series="Le Max2"
+    ro.display.series="Le Max2" \
+    ro.vendor.product.device=le_x2 \
+    ro.vendor.product.name=LeMax2_WW
 
 # Apical AD
 PRODUCT_PROPERTY_OVERRIDES += \
