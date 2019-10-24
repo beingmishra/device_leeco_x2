@@ -22,6 +22,7 @@ $(call inherit-product, device/leeco/x2/device.mk)
 
 # Inherit some common RevengeOS stuff.
 $(call inherit-product, vendor/revengeos/config/common.mk)
+TARGET_BOOT_ANIMATION_RES := 1440
 
 PRODUCT_NAME := revengeos_x2
 PRODUCT_DEVICE := x2
